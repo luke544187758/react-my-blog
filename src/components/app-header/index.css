@@ -1,0 +1,17 @@
+.select-list{
+    display: flex;
+    align-items: center;
+    line-height: 78px;
+    font-weight: 600;
+}
+
+.select-item{
+    position: relative;
+
+}
+
+.select-item:hover,a.active{
+    color: #fff;
+    background: #000;
+    text-decoration: none;
+}
